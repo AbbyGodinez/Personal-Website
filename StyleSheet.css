@@ -4,7 +4,7 @@ body
 }
 div{
   font-size:300%;
-  color:white;
+  font-color:white;
   box-shadow:black -10px 15px;
   text-align:center;
 }
@@ -18,19 +18,19 @@ li a{
 }
 
 #home{
-  color:white;
+  font-color:white;
 }
 
 #about{
-  color:white;
+  font-color:white;
 }
 
 #projects{
-  color:white;
+  font-color:white;
 }
 
 #Skill Sets{
-  color:white;
+  font-color:white;
   list-style:none;
   text-decoration:none;
   padding 15px;
