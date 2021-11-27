@@ -1,6 +1,6 @@
 body
 {
-  background-color: light green;
+  background-color: green;
 }
 div{
   font-size:300%;
@@ -31,8 +31,6 @@ li a{
 
 #Skill Sets{
   color:white;
-}
-#li a{
   list-style:none;
   text-decoration:none;
   padding 15px;
