@@ -1,9 +1,13 @@
 body
 {
   background-color: yellow;
+  font-size:400%;
+  color:white;
+  box-shadow:black -10px 15px;
+  text-align:center;
 }
 li a{
-  list-style-type:none;
+  list-style:none;
   padding 15px;
   text-decoration:none;
 }
