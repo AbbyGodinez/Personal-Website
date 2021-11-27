@@ -31,8 +31,9 @@ li a{
 
 #Skill Sets{
   color:white;
-}
+
   li a {
     list-style:none;
     text-decoration:none;
+  }
 }
