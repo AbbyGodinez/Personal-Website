@@ -16,3 +16,21 @@ li a{
   padding 15px;
   text-decoration:none;
 }
+
+#home{
+  color:white;
+}
+
+#about{
+  color:white;
+}
+
+#projects{
+  color:white;
+}
+
+#Skill Sets{
+  color:white;
+  list-style:none;
+  text-decoration:none;
+}
