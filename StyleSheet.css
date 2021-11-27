@@ -18,20 +18,19 @@ li a{
 }
 
 #home{
-  font-color:white;
+  color:white;
 }
 
 #about{
-  font-color:white;
+  color:white;
 }
 
 #projects{
-  font-color:white;
+  color:white;
 }
 
 #Skill Sets{
-  font-color:white;
+  color:white;
   list-style:none;
   text-decoration:none;
-  padding 15px;
 }
